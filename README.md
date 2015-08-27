@@ -1,7 +1,5 @@
 
-
-#TODO Add further analysis
-#TODO Use own sentiment analysis algorithm
+#Customer Satisfaction Analysis
 
 The aim of the project is to analyze tweets of/to various e-commerce companies in India in order to gauge their customer satisfaction level.
 
@@ -24,3 +22,6 @@ PREFERRED INSTALLATION
 - Anaconda Python distribution
 
 The current plot is given in the "results" directory.
+
+TODO: Add further analysis
+TODO: Use own sentiment analysis algorithm
