@@ -1,13 +1,7 @@
 
-<<<<<<< HEAD
 ##Project page: http://eldor4do.github.io/customer-satisfaction
 
 ###Customer Satisfaction Analysis
-=======
-
-#TODO Add further analysis
-#TODO Use own sentiment analysis algorithm
->>>>>>> parent of be4faef... fixed formatting
 
 The aim of the project is to analyze tweets of/to various e-commerce companies in India in order to gauge their customer satisfaction level.
 
@@ -30,3 +24,6 @@ PREFERRED INSTALLATION
 - Anaconda Python distribution
 
 The current plot is given in the "results" directory.
+
+TODO: Add further analysis
+TODO: Use own sentiment analysis algorithm
